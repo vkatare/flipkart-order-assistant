@@ -1,0 +1,5 @@
+{
+  "source": "multiturn_state",
+  "answer": "Context carried over for Order #1042 from previous turn. Refund status: Pending warehouse inspection.",
+  "confidence": 0.92
+}

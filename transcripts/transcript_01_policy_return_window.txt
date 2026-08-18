@@ -1,0 +1,5 @@
+{
+  "source": "policy_kb",
+  "answer": "Apparel and footwear items are eligible for return within a 14-day window from delivery. Items must be unworn and retain original tags.",
+  "confidence": 0.95
+}
