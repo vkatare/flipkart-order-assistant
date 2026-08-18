@@ -1,0 +1,12 @@
+DOC_1: Apparel and footwear items are eligible for return within a 14-day window from the date of delivery. Items must be unworn, unwashed, and have all original tags attached.
+DOC_2: Electronics items including smartphones, laptops, and tablets have a 7-day replacement-only window. Returns for full refund are only accepted if the item is dead on arrival (DOA) or missing accessories upon delivery.
+DOC_3: Home decor, furniture, and kitchenware items carry a 10-day return window. The product must be unused and returned in its original packaging along with all user manuals and warranty cards.
+DOC_4: Refunds for Cash on Delivery (COD) orders are processed via bank transfer or Flipkart Wallet within 3 to 5 business days after the returned item passes the quality check at the warehouse.
+DOC_5: Prepaid order refunds (Credit Card, Debit Card, UPI, Wallet) are credited back to the original payment source within 24 to 48 hours of quality check approval.
+DOC_6: Standard delivery SLA across major metro cities is 2 to 4 business days from order placement. Non-metro and regional areas have a delivery SLA of 4 to 7 business days.
+DOC_7: Express shipping orders are guaranteed for delivery within 24 to 48 hours in select pin codes. Delayed express shipments qualify for a delivery fee refund upon customer request.
+DOC_8: Reverse pickup is free of charge for all eligible returns. A pickup agent will attempt to collect the package up to 3 times within 48 hours of return request approval.
+DOC_9: If a reverse pickup fails on 3 consecutive attempts due to customer unavailability, the return request will be automatically cancelled, and the customer must re-initiate the request.
+DOC_10: Products purchased during clearance sales or tagged as Non-Returnable are ineligible for return or replacement unless delivered in damaged condition.
+DOC_11: Instant exchange is available for select electronics and appliances. The delivery agent will evaluate the old device at the doorstep before handing over the new product.
+DOC_12: Orders flagged for high return risk may require customer support verification prior to dispatch, including address confirmation and payment verification for high-value COD items.
