@@ -1,0 +1,15 @@
+==================================================
+FLIPKART ORDER RETURN RISK REPORT
+==================================================
+Product Category (Declared) : Sneaker
+Product Category (Visual)   : Sneaker (Confidence: 99.50%)
+Catalog Mismatch Detected   : NO
+--------------------------------------------------
+Estimated Return Probability: 56.01%
+Optimal Threshold (t*)      : 0.5
+Risk Classification Tier   : High Risk
+Predicted Return Outcome    : RETURN LIKELY
+--------------------------------------------------
+Action Recommendation       : Flag for quality verification prior to dispatch
+==================================================
+

@@ -1,0 +1,5 @@
+{
+  "source": "groundedness_check",
+  "answer": "REFUSED: Groundedness score (0.12) is below minimum threshold (0.65). No grounded policy found in knowledge base.",
+  "confidence": 0.0
+}

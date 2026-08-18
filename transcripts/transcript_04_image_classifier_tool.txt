@@ -1,0 +1,22 @@
+{
+  "source": "image_classifier_tool",
+  "answer": {
+    "predicted_category": "Sneaker",
+    "confidence": 0.995,
+    "top_3_predictions": [
+      {
+        "category": "Sneaker",
+        "probability": 0.995
+      },
+      {
+        "category": "Sandal",
+        "probability": 0.0049
+      },
+      {
+        "category": "Ankle boot",
+        "probability": 0.0001
+      }
+    ]
+  },
+  "confidence": 0.995
+}

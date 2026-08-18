@@ -1,0 +1,5 @@
+{
+  "source": "policy_kb",
+  "answer": "Refunds for Cash on Delivery (COD) orders are processed via bank transfer or Flipkart Wallet within 3 to 5 business days post warehouse QC.",
+  "confidence": 0.98
+}

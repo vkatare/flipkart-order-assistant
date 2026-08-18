@@ -1,0 +1,5 @@
+{
+  "source": "fresh_conversation",
+  "answer": "Fresh state initialized. Conversation history reset; no prior order context carried over.",
+  "confidence": 1.0
+}
